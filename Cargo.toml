@@ -1,0 +1,7 @@
+[package]
+name = "rs-futures-spmc"
+version = "0.1.0"
+authors = ["mredlek <mredlek@users.noreply.github.com>"]
+
+[dependencies]
+futures="*"
